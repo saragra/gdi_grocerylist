@@ -1,4 +1,5 @@
 apples
+avocado
 cucumber
 celery
 butter
