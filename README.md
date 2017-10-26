@@ -1,4 +1,4 @@
-pears
+apples
 cucumber
 celery
 butter
