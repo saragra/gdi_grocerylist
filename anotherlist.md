@@ -1,3 +1,3 @@
 chicken wire 
 stones
-muslin
+burlap
