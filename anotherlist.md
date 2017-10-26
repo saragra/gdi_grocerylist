@@ -1,6 +1,7 @@
-chicken wire 
-stones
-burlap
-concrete
-4-2x4s
-wheels
+picnic table
+fake grass
+torch
+fence
+potted plants
+rocking chairs
+umbrella
