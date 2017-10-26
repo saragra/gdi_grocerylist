@@ -5,4 +5,3 @@ butter
 eggs
 tissue
 
-liver
